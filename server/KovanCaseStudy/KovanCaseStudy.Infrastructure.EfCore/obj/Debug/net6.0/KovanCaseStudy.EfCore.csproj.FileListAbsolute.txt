@@ -1,0 +1,14 @@
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.EfCore/bin/Debug/net6.0/KovanCaseStudy.EfCore.deps.json
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.EfCore/bin/Debug/net6.0/KovanCaseStudy.EfCore.dll
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.EfCore/bin/Debug/net6.0/KovanCaseStudy.EfCore.pdb
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.EfCore/obj/Debug/net6.0/KovanCaseStudy.EfCore.csproj.AssemblyReference.cache
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.EfCore/obj/Debug/net6.0/KovanCaseStudy.EfCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.EfCore/obj/Debug/net6.0/KovanCaseStudy.EfCore.AssemblyInfoInputs.cache
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.EfCore/obj/Debug/net6.0/KovanCaseStudy.EfCore.AssemblyInfo.cs
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.EfCore/obj/Debug/net6.0/KovanCaseStudy.EfCore.csproj.CoreCompileInputs.cache
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.EfCore/obj/Debug/net6.0/KovanCaseStudy.EfCore.dll
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.EfCore/obj/Debug/net6.0/refint/KovanCaseStudy.EfCore.dll
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.EfCore/obj/Debug/net6.0/KovanCaseStudy.EfCore.pdb
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.EfCore/obj/Debug/net6.0/ref/KovanCaseStudy.EfCore.dll
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.EfCore/bin/Debug/net6.0/KovanCaseStudy.EfCore.runtimeconfig.json
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.EfCore/obj/Debug/net6.0/KovanCaseStudy.EfCore.genruntimeconfig.cache

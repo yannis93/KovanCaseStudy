@@ -1,0 +1,272 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.Api/KovanCaseStudy.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.Api/KovanCaseStudy.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.Api/KovanCaseStudy.Api.csproj",
+        "projectName": "KovanCaseStudy.Api",
+        "projectPath": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.Api/KovanCaseStudy.Api.csproj",
+        "packagesPath": "/Users/yunusemrebayazit/.nuget/packages/",
+        "outputPath": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yunusemrebayazit/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.Domain/KovanCaseStudy.Domain.csproj": {
+                "projectPath": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.Domain/KovanCaseStudy.Domain.csproj"
+              },
+              "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/KovanCaseStudy.KovanDummyApiClient.csproj": {
+                "projectPath": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/KovanCaseStudy.KovanDummyApiClient.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "HotChocolate.AspNetCore": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "HotChocolate.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.Domain/KovanCaseStudy.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.Domain/KovanCaseStudy.Domain.csproj",
+        "projectName": "KovanCaseStudy.Domain",
+        "projectPath": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.Domain/KovanCaseStudy.Domain.csproj",
+        "packagesPath": "/Users/yunusemrebayazit/.nuget/packages/",
+        "outputPath": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yunusemrebayazit/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.SharedKernel/KovanCaseStudy.SharedKernel.csproj": {
+                "projectPath": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.SharedKernel/KovanCaseStudy.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/KovanCaseStudy.KovanDummyApiClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/KovanCaseStudy.KovanDummyApiClient.csproj",
+        "projectName": "KovanCaseStudy.KovanDummyApiClient",
+        "projectPath": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/KovanCaseStudy.KovanDummyApiClient.csproj",
+        "packagesPath": "/Users/yunusemrebayazit/.nuget/packages/",
+        "outputPath": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yunusemrebayazit/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.SharedKernel/KovanCaseStudy.SharedKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.SharedKernel/KovanCaseStudy.SharedKernel.csproj",
+        "projectName": "KovanCaseStudy.SharedKernel",
+        "projectPath": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.SharedKernel/KovanCaseStudy.SharedKernel.csproj",
+        "packagesPath": "/Users/yunusemrebayazit/.nuget/packages/",
+        "outputPath": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.SharedKernel/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yunusemrebayazit/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Ardalis.Specification": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "MediatR.Contracts": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

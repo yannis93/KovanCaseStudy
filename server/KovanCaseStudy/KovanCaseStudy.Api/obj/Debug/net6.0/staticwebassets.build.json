@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZVRHibhSpWg1etQY9jp2efbSx9ZfogQ+VbZ3YSDy4Oc=",
+  "Source": "KovanCaseStudy.Api",
+  "BasePath": "_content/KovanCaseStudy.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

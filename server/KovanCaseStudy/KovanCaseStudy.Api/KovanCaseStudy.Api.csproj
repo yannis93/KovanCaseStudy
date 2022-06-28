@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="HotChocolate.AspNetCore" Version="11.0.2" />
+        <PackageReference Include="HotChocolate.AspNetCore.Authorization" Version="11.0.2" />
+        <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.6" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\KovanCaseStudy.Domain\KovanCaseStudy.Domain.csproj" />
+        <ProjectReference Include="..\KovanCaseStudy.KovanDummyApiClient\KovanCaseStudy.KovanDummyApiClient.csproj" />
+    </ItemGroup>
+
+</Project>

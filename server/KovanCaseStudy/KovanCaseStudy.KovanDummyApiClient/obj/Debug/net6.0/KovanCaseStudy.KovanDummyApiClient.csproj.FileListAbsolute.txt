@@ -1,0 +1,12 @@
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/obj/Debug/net6.0/KovanCaseStudy.KovanDummyApiClient.csproj.AssemblyReference.cache
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/obj/Debug/net6.0/KovanCaseStudy.KovanDummyApiClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/obj/Debug/net6.0/KovanCaseStudy.KovanDummyApiClient.AssemblyInfoInputs.cache
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/obj/Debug/net6.0/KovanCaseStudy.KovanDummyApiClient.AssemblyInfo.cs
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/obj/Debug/net6.0/KovanCaseStudy.KovanDummyApiClient.csproj.CoreCompileInputs.cache
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/bin/Debug/net6.0/KovanCaseStudy.KovanDummyApiClient.deps.json
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/bin/Debug/net6.0/KovanCaseStudy.KovanDummyApiClient.dll
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/bin/Debug/net6.0/KovanCaseStudy.KovanDummyApiClient.pdb
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/obj/Debug/net6.0/KovanCaseStudy.KovanDummyApiClient.dll
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/obj/Debug/net6.0/refint/KovanCaseStudy.KovanDummyApiClient.dll
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/obj/Debug/net6.0/KovanCaseStudy.KovanDummyApiClient.pdb
+/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/obj/Debug/net6.0/ref/KovanCaseStudy.KovanDummyApiClient.dll

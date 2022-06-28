@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "02ClpvSPf3T5m5pSVahAuozscER6pcAstGGg2HXXbDYsYUTopGMHysmGxkuUh+xiqnU6e3Z9c6OSSCtcMLi4XQ==",
+  "success": true,
+  "projectFilePath": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.Domain/KovanCaseStudy.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/yunusemrebayazit/.nuget/packages/ardalis.specification/6.0.1/ardalis.specification.6.0.1.nupkg.sha512",
+    "/Users/yunusemrebayazit/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
