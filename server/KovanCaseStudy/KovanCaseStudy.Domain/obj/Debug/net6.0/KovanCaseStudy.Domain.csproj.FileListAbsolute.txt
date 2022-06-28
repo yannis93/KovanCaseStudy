@@ -13,3 +13,15 @@
 /Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.Domain/obj/Debug/net6.0/refint/KovanCaseStudy.Domain.dll
 /Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.Domain/obj/Debug/net6.0/KovanCaseStudy.Domain.pdb
 /Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.Domain/obj/Debug/net6.0/ref/KovanCaseStudy.Domain.dll
+/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.Domain/bin/Debug/net6.0/KovanCaseStudy.Domain.deps.json
+/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.Domain/bin/Debug/net6.0/KovanCaseStudy.Domain.dll
+/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.Domain/bin/Debug/net6.0/KovanCaseStudy.Domain.pdb
+/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.Domain/obj/Debug/net6.0/KovanCaseStudy.Domain.csproj.AssemblyReference.cache
+/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.Domain/obj/Debug/net6.0/KovanCaseStudy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.Domain/obj/Debug/net6.0/KovanCaseStudy.Domain.AssemblyInfoInputs.cache
+/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.Domain/obj/Debug/net6.0/KovanCaseStudy.Domain.AssemblyInfo.cs
+/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.Domain/obj/Debug/net6.0/KovanCaseStudy.Domain.csproj.CoreCompileInputs.cache
+/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.Domain/obj/Debug/net6.0/KovanCaseStudy.Domain.dll
+/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.Domain/obj/Debug/net6.0/refint/KovanCaseStudy.Domain.dll
+/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.Domain/obj/Debug/net6.0/KovanCaseStudy.Domain.pdb
+/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.Domain/obj/Debug/net6.0/ref/KovanCaseStudy.Domain.dll

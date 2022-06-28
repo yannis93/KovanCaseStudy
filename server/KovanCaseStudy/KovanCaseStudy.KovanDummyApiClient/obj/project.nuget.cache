@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8mFSIbNUrcz88CGwaJgHLFMgvpKu14zE21GIzK60c+6JU9rNXqUAOgDzaVGr0yPjZv4jGZfrmDF6kfS4R8jcvw==",
+  "dgSpecHash": "boWVMLcxGPN9zh2R5UcLJOPAgsR9iGOPRkkY5tHioSURjscfIb6mPehJyUJARXka0XwB8I5mru37tSEt2tiT2g==",
   "success": true,
-  "projectFilePath": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/KovanCaseStudy.KovanDummyApiClient.csproj",
+  "projectFilePath": "/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/KovanCaseStudy.KovanDummyApiClient.csproj",
   "expectedPackageFiles": [
     "/Users/yunusemrebayazit/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "/Users/yunusemrebayazit/.nuget/packages/microsoft.extensions.configuration.binder/6.0.0/microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",

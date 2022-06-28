@@ -446,11 +446,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/KovanCaseStudy.KovanDummyApiClient.csproj",
+      "projectUniqueName": "/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/KovanCaseStudy.KovanDummyApiClient.csproj",
       "projectName": "KovanCaseStudy.KovanDummyApiClient",
-      "projectPath": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/KovanCaseStudy.KovanDummyApiClient.csproj",
+      "projectPath": "/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/KovanCaseStudy.KovanDummyApiClient.csproj",
       "packagesPath": "/Users/yunusemrebayazit/.nuget/packages/",
-      "outputPath": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/obj/",
+      "outputPath": "/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yunusemrebayazit/.nuget/NuGet/NuGet.Config"

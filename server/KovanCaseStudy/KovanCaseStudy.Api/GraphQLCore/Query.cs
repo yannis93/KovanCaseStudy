@@ -1,4 +1,3 @@
-using KovanCaseStudy.Domain.Aggregates.VehiclesAggregate;
 using KovanCaseStudy.KovanDummyApiClient;
 using KovanCaseStudy.KovanDummyApiClient.Models.Responses.Items;
 

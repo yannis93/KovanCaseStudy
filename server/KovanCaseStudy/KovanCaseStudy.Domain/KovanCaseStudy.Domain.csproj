@@ -6,12 +6,4 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
-    <ItemGroup>
-      <Folder Include="Aggregates\VehiclesAggregate\Specifications" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <ProjectReference Include="..\KovanCaseStudy.SharedKernel\KovanCaseStudy.SharedKernel.csproj" />
-    </ItemGroup>
-
 </Project>

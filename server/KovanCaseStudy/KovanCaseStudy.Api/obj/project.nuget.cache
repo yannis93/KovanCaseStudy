@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "Ey14QiQVwsQg8j78E4pBHwP80Pvm5Qynq7jt4eF2f9psUeQtHEs5iOxknoHcZDFe9Lz0QLAvMtLkWs9HXF+uMw==",
+  "dgSpecHash": "H9/GLS4qmYBcVE2OIr26t5OLyIo5W+ec8s2Dmcqf2uE5pXzGdvC6si0Va+e1Pf+53b/0yKytOqj4gPyjkknNaA==",
   "success": true,
-  "projectFilePath": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.Api/KovanCaseStudy.Api.csproj",
+  "projectFilePath": "/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.Api/KovanCaseStudy.Api.csproj",
   "expectedPackageFiles": [
-    "/Users/yunusemrebayazit/.nuget/packages/ardalis.specification/6.0.1/ardalis.specification.6.0.1.nupkg.sha512",
     "/Users/yunusemrebayazit/.nuget/packages/greendonut/11.0.2/greendonut.11.0.2.nupkg.sha512",
     "/Users/yunusemrebayazit/.nuget/packages/hotchocolate/11.0.2/hotchocolate.11.0.2.nupkg.sha512",
     "/Users/yunusemrebayazit/.nuget/packages/hotchocolate.abstractions/11.0.2/hotchocolate.abstractions.11.0.2.nupkg.sha512",
@@ -24,7 +23,6 @@
     "/Users/yunusemrebayazit/.nuget/packages/hotchocolate.utilities/11.0.2/hotchocolate.utilities.11.0.2.nupkg.sha512",
     "/Users/yunusemrebayazit/.nuget/packages/hotchocolate.utilities.introspection/11.0.2/hotchocolate.utilities.introspection.11.0.2.nupkg.sha512",
     "/Users/yunusemrebayazit/.nuget/packages/hotchocolate.validation/11.0.2/hotchocolate.validation.11.0.2.nupkg.sha512",
-    "/Users/yunusemrebayazit/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
     "/Users/yunusemrebayazit/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/6.0.6/microsoft.aspnetcore.authentication.jwtbearer.6.0.6.nupkg.sha512",
     "/Users/yunusemrebayazit/.nuget/packages/microsoft.aspnetcore.authorization/3.1.0/microsoft.aspnetcore.authorization.3.1.0.nupkg.sha512",
     "/Users/yunusemrebayazit/.nuget/packages/microsoft.aspnetcore.metadata/3.1.0/microsoft.aspnetcore.metadata.3.1.0.nupkg.sha512",

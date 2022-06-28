@@ -2,15 +2,6 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "Ardalis.Specification/6.0.1": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/Ardalis.Specification.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Ardalis.Specification.dll": {}
-        }
-      },
       "GreenDonut/11.0.2": {
         "type": "package",
         "dependencies": {
@@ -283,15 +274,6 @@
         },
         "runtime": {
           "lib/net5.0/HotChocolate.Validation.dll": {}
-        }
-      },
-      "MediatR.Contracts/1.0.1": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/MediatR.Contracts.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/MediatR.Contracts.dll": {}
         }
       },
       "Microsoft.AspNetCore.Authentication.JwtBearer/6.0.6": {
@@ -694,9 +676,6 @@
       "KovanCaseStudy.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "KovanCaseStudy.SharedKernel": "1.0.0"
-        },
         "compile": {
           "bin/placeholder/KovanCaseStudy.Domain.dll": {}
         },
@@ -719,39 +698,10 @@
         "runtime": {
           "bin/placeholder/KovanCaseStudy.KovanDummyApiClient.dll": {}
         }
-      },
-      "KovanCaseStudy.SharedKernel/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Ardalis.Specification": "6.0.1",
-          "MediatR.Contracts": "1.0.1"
-        },
-        "compile": {
-          "bin/placeholder/KovanCaseStudy.SharedKernel.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/KovanCaseStudy.SharedKernel.dll": {}
-        }
       }
     }
   },
   "libraries": {
-    "Ardalis.Specification/6.0.1": {
-      "sha512": "eLtJq5eI1wXDxPZQY3DW4lKFYgGuBobe9Z60L0uYjEnKQ3t2ACVvnD+qXaL4wfJ9r8aAAv6TAj640RwPZK5BEw==",
-      "type": "package",
-      "path": "ardalis.specification/6.0.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "ardalis.specification.6.0.1.nupkg.sha512",
-        "ardalis.specification.nuspec",
-        "icon.png",
-        "lib/netstandard2.0/Ardalis.Specification.dll",
-        "lib/netstandard2.0/Ardalis.Specification.pdb",
-        "lib/netstandard2.0/Ardalis.Specification.xml"
-      ]
-    },
     "GreenDonut/11.0.2": {
       "sha512": "qkMsKBR1QieX3FM8ZU8KRsiUycQ/xrE6Yf46TQlfv3Dn8I/5bIm74SuZ8Se2FFHDCIqCizfbqYnEu5x5+3+6Yg==",
       "type": "package",
@@ -1015,22 +965,6 @@
         "lib/net5.0/HotChocolate.Validation.dll",
         "lib/netcoreapp3.1/HotChocolate.Validation.dll",
         "lib/netstandard2.0/HotChocolate.Validation.dll"
-      ]
-    },
-    "MediatR.Contracts/1.0.1": {
-      "sha512": "NsRvOxthhkYml4DcBMyJsmym8C4MchioH7wxKVPEg7plFj9Euh/i4IcmZ3Gvgx6+K8obeuhPeJdoBl56wnuo3A==",
-      "type": "package",
-      "path": "mediatr.contracts/1.0.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "gradient_128x128.png",
-        "lib/net461/MediatR.Contracts.dll",
-        "lib/net461/MediatR.Contracts.xml",
-        "lib/netstandard2.0/MediatR.Contracts.dll",
-        "lib/netstandard2.0/MediatR.Contracts.xml",
-        "mediatr.contracts.1.0.1.nupkg.sha512",
-        "mediatr.contracts.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Authentication.JwtBearer/6.0.6": {
@@ -1976,11 +1910,6 @@
       "type": "project",
       "path": "../KovanCaseStudy.KovanDummyApiClient/KovanCaseStudy.KovanDummyApiClient.csproj",
       "msbuildProject": "../KovanCaseStudy.KovanDummyApiClient/KovanCaseStudy.KovanDummyApiClient.csproj"
-    },
-    "KovanCaseStudy.SharedKernel/1.0.0": {
-      "type": "project",
-      "path": "../KovanCaseStudy.SharedKernel/KovanCaseStudy.SharedKernel.csproj",
-      "msbuildProject": "../KovanCaseStudy.SharedKernel/KovanCaseStudy.SharedKernel.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1998,11 +1927,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.Api/KovanCaseStudy.Api.csproj",
+      "projectUniqueName": "/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.Api/KovanCaseStudy.Api.csproj",
       "projectName": "KovanCaseStudy.Api",
-      "projectPath": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.Api/KovanCaseStudy.Api.csproj",
+      "projectPath": "/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.Api/KovanCaseStudy.Api.csproj",
       "packagesPath": "/Users/yunusemrebayazit/.nuget/packages/",
-      "outputPath": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.Api/obj/",
+      "outputPath": "/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yunusemrebayazit/.nuget/NuGet/NuGet.Config"
@@ -2017,11 +1946,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.Domain/KovanCaseStudy.Domain.csproj": {
-              "projectPath": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.Domain/KovanCaseStudy.Domain.csproj"
+            "/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.Domain/KovanCaseStudy.Domain.csproj": {
+              "projectPath": "/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.Domain/KovanCaseStudy.Domain.csproj"
             },
-            "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/KovanCaseStudy.KovanDummyApiClient.csproj": {
-              "projectPath": "/Users/yunusemrebayazit/RiderProjects/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/KovanCaseStudy.KovanDummyApiClient.csproj"
+            "/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/KovanCaseStudy.KovanDummyApiClient.csproj": {
+              "projectPath": "/Users/yunusemrebayazit/Desktop/KovanCaseStudy/server/KovanCaseStudy/KovanCaseStudy.KovanDummyApiClient/KovanCaseStudy.KovanDummyApiClient.csproj"
             }
           }
         }

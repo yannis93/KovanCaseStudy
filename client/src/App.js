@@ -18,7 +18,8 @@ export default function App() {
           <Routes>
             <Route path="/login" element={<Login/>} />
             <Route path="/vehicle-list" element={<VehicleList/>} />
-          </Routes>
+            <Route path="/" element={<Login  />} />
+		  </Routes>
       </Container>
     </Router>
   );
